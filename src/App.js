@@ -19,7 +19,7 @@ import Ship from './components/Ship/Ship';
 
 
 function App() {
-  const user = {name: 'kodumia', email:'veda@MimeTypeArray.com'};
+
   return (
     <div>
       <AuthContextProvider>
